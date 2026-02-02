@@ -1,0 +1,10 @@
+{
+  "name": "CoopManager BG",
+  "description": "Професионална система за управление на етажна собственост с AI анализ на разходите.",
+  "requestFramePermissions": [],
+  "short_name": "CoopManager",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb"
+}

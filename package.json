@@ -1,0 +1,15 @@
+
+{
+  "name": "coop-manager-bg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Система за управление на етажна собственост с AI функции.",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'Static build - no compilation needed'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
